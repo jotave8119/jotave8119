@@ -1,6 +1,7 @@
 
 <img align="right" src="https://www.infowindtech.com/wp-content/themes/infowind/images/cover-image-svg.png"  background="transparent" height="300" width="350"/>
 
+
 ### Olá! Eu sou o João Teixeira! Seja bem-vindo(a) ao meu GitHub!
 
 
@@ -42,10 +43,11 @@
 <h2>⭐ Github stats</h2> 
 <a href="https://github.com/jotave8119">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotave8119&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotave8119&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotave8119&show_icons=true&theme=dracula&include_all_commits=true&count_private=truetheme=dracula"/>
 </div>
+  
 
-##
+
 
 
 
