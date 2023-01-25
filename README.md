@@ -1,8 +1,8 @@
 
-<img align="right" src="https://www.infowindtech.com/wp-content/themes/infowind/images/cover-image-svg.png"  background="transparent" height="300" width="350"/>
+<img align="center" src="https://www.infowindtech.com/wp-content/themes/infowind/images/cover-image-svg.png"  background="transparent" height="300" width="350"/>
 
 
-### Olá! Eu sou o João Teixeira! Seja bem-vindo(a) ao meu GitHub!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F1F9F2&size=35&left=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+João+Teixeira!;Desenvolvedor+front+end!+:%29)](https://git.io/typing-svg)
 
 
 
@@ -46,7 +46,9 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotave8119&show_icons=true&theme=dracula&include_all_commits=true&count_private=truetheme=dracula"/>
 </div>
   
-
+ ##
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jotave8119&bg_color=373436&color=f1f9f2&line=4c9e61&point=eaecf1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
