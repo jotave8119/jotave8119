@@ -1,13 +1,20 @@
-### Olá! Eu sou o João Teixeira! Seja bem-vindo! 👋
+
+<img align="right" src="https://www.infowindtech.com/wp-content/themes/infowind/images/cover-image-svg.png"  background="transparent" height="300" width="350"/>
+
+### Olá! Eu sou o João Teixeira! Seja bem-vindo(a) ao meu GitHub!
 
 
 
-- 🔭 Hoje eu busco as primeiras oportunidades como desenvolvedor front end.
+- 🎯 Hoje eu busco as primeiras oportunidades como desenvolvedor front end.
 - 🌱 Atualmente estou revendo tópicos em JavaScript, React JS e typeScript a fim de me aprofundar ainda mais. E em breve quero estudar React native, Next Js e outras tecnologias.
 - 👯 Fiz parte de vários projetos em ambiente estudantil e sempre tento manter a prática em dia com projetos pessoais.
 - 😄 Pronouns: Ele/Dele
+- 👦🏻 Tenho 26 anos e sou do Rio de Janeiro!
+- 📚 Estudo programação há um pouco mais de 8 meses.
 
 ##
+
+
 
 <div style="display: inline_block"><br>
 <h2>💻 Tecnologias</h2> 
@@ -15,10 +22,10 @@
 <img align="center" title="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="center" title="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="center" title="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="center" title="React JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img align="center" title="React JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="center" title="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="center" title="Node JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="center" title="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />          
+<img align="center" title="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />          
 </div>
 
 ##
