@@ -1,10 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F1F9F2&size=35&left=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+João+Teixeira!;Desenvolvedor+front+end!;Este+é+o+meu+GitHub!;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
-<img align="center" src="https://www.infowindtech.com/wp-content/themes/infowind/images/cover-image-svg.png"  background="transparent" height="300" width="350"/>
+##
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F1F9F2&size=35&left=true&vCenter=true&width=1000&lines=Olá!+Meu+nome+é+João+Teixeira!;Desenvolvedor+front+end!+:%29)](https://git.io/typing-svg)
-
-
+<img  align="right" src="https://www.infowindtech.com/wp-content/themes/infowind/images/cover-image-svg.png"  background="transparent" height="300" width="350"/>
 
 - 🎯 Hoje eu busco as primeiras oportunidades como desenvolvedor front end.
 - 🌱 Atualmente estou revendo tópicos em JavaScript, React JS e typeScript a fim de me aprofundar ainda mais. E em breve quero estudar React native, Next Js e outras tecnologias.
