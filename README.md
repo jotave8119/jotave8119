@@ -8,3 +8,4 @@
 - 😄 Pronouns: Ele/Dele
 
 
+![Snake animation](https://github.com/jotave8119/jotave8119/blob/output/github-contribution-grid-snake.svg)
