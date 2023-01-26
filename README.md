@@ -51,6 +51,6 @@
   
 ##  
 
-![Snake animation](https://github.com/seu-usuário-aqui/jotave8119/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/seu-usuário-aqui/jotave8119/blob/output/github-contribution-grid-snake.svg) -->
 
 
