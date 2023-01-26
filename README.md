@@ -27,7 +27,7 @@
 <img align="center" title="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />          
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/jotave8119/blob/output/github-contribution-grid-snake.svg)
+
 ##
 <div>
 <h2>📲 Contatos</h2>
@@ -48,7 +48,9 @@
  ##
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jotave8119&bg_color=373436&color=f1f9f2&line=4c9e61&point=eaecf1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+##  
 
-
+![Snake animation](https://github.com/seu-usuário-aqui/jotave8119/blob/output/github-contribution-grid-snake.svg)
 
 
