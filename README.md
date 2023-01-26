@@ -27,6 +27,7 @@
 <img align="center" title="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />          
 </div>
 
+![Snake animation](https://github.com/seu-usuário-aqui/jotave8119/blob/output/github-contribution-grid-snake.svg)
 ##
 <div>
 <h2>📲 Contatos</h2>
