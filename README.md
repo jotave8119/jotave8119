@@ -9,7 +9,7 @@
 - 👯 Fiz parte de vários projetos em ambiente estudantil e sempre tento manter a prática em dia com projetos pessoais.
 - 😄 Pronouns: Ele/Dele
 - 👦🏻 Tenho 26 anos e sou do Rio de Janeiro!
-- 📚 Estudo programação há um pouco mais de 8 meses.
+- 📚 Estudante de Análise desenvolvimento de sistemas(1/5).
 
 ##
 
@@ -27,6 +27,7 @@
 <img align="center" title="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />          
 </div>
 
+![Snake animation](https://github.com/jotave8119/jotave8119/blob/output/github-contribution-grid-snake.svg)
 
 ##
 <div>
