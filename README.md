@@ -2,7 +2,7 @@
 
 ##
 
-<img  align="right" src="https://image.similarpng.com/very-thumbnail/2020/11/Programmer-Engineering-Development-Illustration-on-transparent-background-PNG.png"  background="transparent" height="300" width="400"/>
+<img  align="right" src="https://img.freepik.com/premium-vector/programmer-coder-concentrated-working-project-developing-programming-coding-technologies_569013-338.jpg?w=2000"  background="transparent" height="300" width="400"/>
 
 - 🎯 Hoje eu busco as primeiras oportunidades como desenvolvedor front end.
 - 🌱 Atualmente estou revendo tópicos em JavaScript, React JS e typeScript a fim de me aprofundar ainda mais. E em breve quero estudar React native, Next Js e outras tecnologias.
