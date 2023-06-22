@@ -2,7 +2,7 @@
 
 ##
 
-<img  align="right" src="https://www.infowindtech.com/wp-content/themes/infowind/images/cover-image-svg.png"  background="transparent" height="300" width="350"/>
+<img  align="right" src="https://www.multirecruit.com/wp-content/uploads/2022/05/What-is-Full-Stack-Developer.png"  background="transparent" height="300" width="350"/>
 
 - 🎯 Hoje eu busco as primeiras oportunidades como desenvolvedor front end.
 - 🌱 Atualmente estou revendo tópicos em JavaScript, React JS e typeScript a fim de me aprofundar ainda mais. E em breve quero estudar React native, Next Js e outras tecnologias.
