@@ -9,7 +9,7 @@
 - 👯 Fiz parte de vários projetos em ambiente estudantil e sempre tento manter a prática em dia com projetos pessoais.
 - 😄 Pronouns: Ele/Dele
 - 👦🏻 Tenho 26 anos e sou do Rio de Janeiro!
-- 📚 Estudante de Análise desenvolvimento de sistemas(1/5).
+- 📚 Estudante de Análise desenvolvimento de sistemas(2/5).
 
 ##
 
