@@ -4,11 +4,11 @@
 
 <img  align="right" src="https://cdni.iconscout.com/illustration/premium/thumb/programmer-doing-programming-3454631-2918520.png"  background="transparent" height="400" width="400"/>
 
-- 🎯 Hoje eu busco as primeiras oportunidades como desenvolvedor front end.
-- 🌱 Atualmente estou revendo tópicos em JavaScript, React JS e typeScript a fim de me aprofundar ainda mais. E em breve quero estudar React native, Next Js e outras tecnologias.
+- 🎯 Atualmente estou trabalhando com dev full stack na Date a Home.
+- 🌱 Atualmente estou revendo tópicos em JavaScript, Angular, Nest JS e typeScript a fim de me aprofundar ainda mais. Estou estudando com o objetivo de me tornar um dev altamente adaptável às tecnologias.
 - 👯 Fiz parte de vários projetos em ambiente estudantil e sempre tento manter a prática em dia com projetos pessoais.
 - 😄 Pronouns: Ele/Dele
-- 👦🏻 Tenho 26 anos e sou do Rio de Janeiro!
+- 👦🏻 Tenho 27 anos e sou do Rio de Janeiro!
 - 📚 Estudante de Análise desenvolvimento de sistemas(2/5).
 
 ##
