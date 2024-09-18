@@ -4,12 +4,12 @@
 
 <img  align="right" src="https://cdni.iconscout.com/illustration/premium/thumb/programmer-doing-programming-3454631-2918520.png"  background="transparent" height="400" width="400"/>
 
-- 🎯 Atualmente estou trabalhando como dev full stack na Date a Home.
-- 🌱 Atualmente estou revendo tópicos em JavaScript, Angular, Nest JS e typeScript a fim de me aprofundar ainda mais. Estou estudando com o objetivo de me tornar um dev altamente adaptável às tecnologias.
-- 👯 Fiz parte de vários projetos em ambiente estudantil e sempre tento manter a prática em dia com projetos pessoais.
+- 🎯 Atualmente estou trabalhando como dev full stack no Date a Home Brasil.
+- 🌱 Atualmente estou revendo tópicos em JavaScript, Angular, Nest JS e typeScript a fim de me aprofundar ainda mais. Estou estudando com o objetivo de me tornar um dev altamente adaptável às tecnologias, conforme a necessidade.
+- 👯 Fiz parte de vários projetos em ambiente estudantil e sempre tento manter a prática em dia com projetos pessoais, fora a experiência no mercado de trabalho atualmente.
 - 😄 Pronouns: Ele/Dele
-- 👦🏻 Tenho 27 anos e sou do Rio de Janeiro!
-- 📚 Estudante de Análise desenvolvimento de sistemas(2/5).
+- 👦🏻 Tenho 28 anos e sou do Rio de Janeiro!
+- 📚 Estudante de Análise desenvolvimento de sistemas(4/5).
 
 ##
 
