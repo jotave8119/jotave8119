@@ -6,7 +6,7 @@
 
 - 🎯 Desde 2023 estou trabalhando como dev full stack no Date a home Brasil.
 - 🌱 Atualmente estou revendo tópicos em Arquitetura, Design pattern, JavaScript, Angular, Nest JS e typeScript a fim de me aprofundar ainda mais. Estou estudando com o objetivo de me tornar um dev altamente adaptável às tecnologias, conforme a necessidade.
-- 👯 Fiz parte de vários projetos em ambiente estudantil e sempre tento manter a prática em dia com projetos pessoais, fora a experiência no mercado de trabalho atualmente.
+- 👯 Fiz parte de vários projetos em ambiente estudantil e freelancers em projetos profissionais e sempre tento manter a prática em dia com projetos pessoais, fora a experiência no mercado de trabalho atualmente.
 - 😄 Pronouns: Ele/Dele
 - 👦🏻 Tenho 29 anos e sou do Rio de Janeiro!
 - 📚 Formado em Análise desenvolvimento de sistemas.
