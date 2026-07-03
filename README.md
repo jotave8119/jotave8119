@@ -10,7 +10,8 @@
 - 😄 Pronouns: Ele/Dele
 - 👦🏻 Tenho 29 anos e sou do Rio de Janeiro!
 - 📚 Formado em Análise desenvolvimento de sistemas.
-- 📚 Em busca de uma especialização e terminando cursinhos da udemy rs.
+- 📚 Terminando cursinhos da udemy rs.
+- 📚 Cursando pós graduação de Arquitetura de software distribuído na PUC MG.
 
 ##
 
